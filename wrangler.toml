@@ -1,0 +1,7 @@
+name = "api-docs"
+type = "javascript"
+
+[build]
+command = "npm run build"
+upload_format = "modules"
+upload_dir = "dist"
