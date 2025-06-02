@@ -1,5 +1,4 @@
 name = "api-docs"
-type = "javascript"
 
 [site]
 bucket = "./dist"
